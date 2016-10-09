@@ -1,0 +1,10 @@
+
+[defaults]
+offline=false
+flatclasspath=false
+autoexportmavendependencies=false
+encoding=UTF-8
+
+[compiler]
+source=source
+resource=resource
