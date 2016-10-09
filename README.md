@@ -1,2 +1,2 @@
-# tennis-kata
+# Tennis kata
 Tennis kata in Ceylon
